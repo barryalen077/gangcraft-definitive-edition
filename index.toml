@@ -1545,6 +1545,11 @@ file = "icon.png"
 hash = "0f520eb1ca69c79d6ebeaa514b3efaeb7d8ed9a1e559f326653833d81c45576d"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "d3bf7ece2417a62d421c471b32a52d0b08c4509b6d7d34589264cbc06998edc3"
+metafile = true
+
+[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "24a84e19a2c5611588f0803562b1c2b466b3683f2bace6572b9eb6d2e5e66821"
 metafile = true
@@ -1889,7 +1894,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
+hash = "1dfac146a84e16f89ae17bcc8e9ee745040f8310dfc9c9b896c7ad372cdd82ca"
 metafile = true
 
 [[files]]
@@ -2122,7 +2127,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e1b49409243ca8ccf9d1ef4d458dc1a887a19f9b18dcd5088d56c19073d57b43"
+hash = "077b5fdf5531b2ebad28955702d069f1df60589b53613b1c66a1c55ba7832bec"
 metafile = true
 
 [[files]]
@@ -2232,7 +2237,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "4c1d37d3aecc6d67ce6c6a97d859345cdaefcf619a057069b0a8635f2ad551ac"
+hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
 metafile = true
 
 [[files]]
@@ -2337,7 +2342,7 @@ metafile = true
 
 [[files]]
 file = "mods/unnamed-sea.pw.toml"
-hash = "07eea77042c1cd16a8b0b4d1c794e7a6b007fa8da35e274d0885466b6be9358a"
+hash = "b84d295fc10b45aafbc8e536597945ab4e1602422d2566e211daddbe4d811374"
 metafile = true
 
 [[files]]
@@ -2425,6 +2430,10 @@ hash = "a9421a7a29ac8ee6e0598ea20025ad2c30e6198b796324184600621743437c91"
 metafile = true
 
 [[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
 file = "resourcepacks/Quark Programmer Art.zip"
 hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"
 
@@ -2439,7 +2448,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/human-era-villagers-illagers.pw.toml"
-hash = "9ff25b67bfb6a953d709dfa6447650cc8ca97885ac6ed5f00f5d0c89aa2ec691"
+hash = "f5b7ffb8184aa936314d6ddbeb9fb7d0225e54f622cbb28406b38f52e35f9217"
 metafile = true
 
 [[files]]

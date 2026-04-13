@@ -2246,11 +2246,6 @@ hash = "4ed3bf205c8f6aa985b33a4cd082a519f7f9dc764d1dcee7e560668818690549"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "1f19116888981b94d095434df77429fa52ea04dabc4ed5d1fb98eafe0416b3df"
-metafile = true
-
-[[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "b57ddd9ef1d76c36bea503acc06db0ebf2d909e04032c37abc2b3c7ce38aa23c"
 metafile = true

@@ -1,0 +1,13 @@
+name = "[ Java ] Human Era: Villagers & Illagers X Fresh Animations"
+filename = "HumanEraVillagersIllagers[3.91.2].zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c6f66207ed558e4beed3b17cdb7809841d8b8dcd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7841198
+project-id = 827093

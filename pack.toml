@@ -1,0 +1,13 @@
+name = "Gangcraft Definitive Edition"
+author = "Barry_Alen077"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e68b63a0155f0b6739e6c62605e83a9bc7662e53433e10157498094ab8a35eb5"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

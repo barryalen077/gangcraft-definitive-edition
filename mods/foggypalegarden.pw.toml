@@ -1,0 +1,13 @@
+name = "Foggy Pale Garden (FPG) [Archived]"
+filename = "foggypalegarden-2.9.1+1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef861676900d5aa9ca49c258a35b0cf4c68ebc53"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6640913
+project-id = 1114471

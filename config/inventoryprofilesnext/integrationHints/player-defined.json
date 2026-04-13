@@ -1,0 +1,15 @@
+{
+    "net.minecraft.client.gui.screens.inventory.ContainerScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 13
+            },
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": -13
+            },
+            "SORT": {
+                "horizontalOffset": -12
+            }
+        }
+    }
+}

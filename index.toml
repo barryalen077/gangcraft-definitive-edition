@@ -1545,11 +1545,6 @@ file = "icon.png"
 hash = "0f520eb1ca69c79d6ebeaa514b3efaeb7d8ed9a1e559f326653833d81c45576d"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "d3bf7ece2417a62d421c471b32a52d0b08c4509b6d7d34589264cbc06998edc3"
-metafile = true
-
-[[files]]
 file = "mods/additional-placements.pw.toml"
 hash = "24a84e19a2c5611588f0803562b1c2b466b3683f2bace6572b9eb6d2e5e66821"
 metafile = true
@@ -2252,7 +2247,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "0b79b0cdd0c2dfbab6d881094bf8fc52d1921322097976be848778533b158c47"
+hash = "1f19116888981b94d095434df77429fa52ea04dabc4ed5d1fb98eafe0416b3df"
 metafile = true
 
 [[files]]

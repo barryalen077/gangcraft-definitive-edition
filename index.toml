@@ -2252,7 +2252,7 @@ metafile = true
 
 [[files]]
 file = "mods/skin-layers-3d.pw.toml"
-hash = "96faed6998f9d3d7240f35111b9793370b83e6c4f984545fa228f799398595eb"
+hash = "0b79b0cdd0c2dfbab6d881094bf8fc52d1921322097976be848778533b158c47"
 metafile = true
 
 [[files]]

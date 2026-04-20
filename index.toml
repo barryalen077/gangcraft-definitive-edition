@@ -2345,6 +2345,11 @@ file = "mods/waystones-forge-1.20.1-14.1.18.jar"
 hash = "6571bdec2ee13ec7826172f7450faad2af36646cc50fc150ab46a455aab96456"
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "ff646e2f218fe9b5094b835855949b70f3f528f0d12ce2401455f60ee9017dbb"
+metafile = true
+
+[[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"
 hash = "ac26aae21a13356e9ad5cba79e192692606806e7f2ce4db9157334427ab15e3a"
 metafile = true

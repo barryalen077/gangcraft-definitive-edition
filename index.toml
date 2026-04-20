@@ -1649,11 +1649,6 @@ hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
 
 [[files]]
-file = "mods/better-village.pw.toml"
-hash = "f1bee56d1c7ec634e3df67e6244c44769d4fbc001dbd72ee9cb22697e1be926e"
-metafile = true
-
-[[files]]
 file = "mods/bettervillage-forge-1.20.1-3.3.1-all.jar"
 hash = "efe7ea20a6eb46417d65db362523c3613ce49db412eaad51930e29f0335a4d39"
 
@@ -1884,12 +1879,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e913f7ebc0ccbefcca67d4db8a93c7257f21cfad0de8be1c8a57e030dad21d80"
+hash = "b26d8eb5d456c07d2b231d08c79e9ef558b015b722d5399315de39459880d149"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "163a669685e417fc90796323b46128e5e54162703c2f6c114a52af3da5b5a95d"
+hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
 metafile = true
 
 [[files]]
@@ -2236,11 +2231,6 @@ hash = "4337bb9f8d504a42da9ca4d56041e1353aa2f84e5470308e3806ce5650691044"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "874a064efc37398f5818a38666ea31263bd65ed0478b519b819f7a361bd0893e"
-metafile = true
-
-[[files]]
 file = "mods/simple-tomb.pw.toml"
 hash = "0f6036e1482ea786d4dea4d484d210c8833a9c2d95e8b6b3bb09c9678b51a064"
 metafile = true
@@ -2336,11 +2326,6 @@ hash = "75da77b6e077334abe9993afd0921d7d5a84c49f9da646e53ce6d9f54875e18d"
 metafile = true
 
 [[files]]
-file = "mods/unnamed-sea.pw.toml"
-hash = "b84d295fc10b45aafbc8e536597945ab4e1602422d2566e211daddbe4d811374"
-metafile = true
-
-[[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "810a21738338c5d4f96d18dacbd02f0cefaa0fa293fa3343e7e39165b4b994e6"
 metafile = true
@@ -2358,11 +2343,6 @@ metafile = true
 [[files]]
 file = "mods/waystones-forge-1.20.1-14.1.18.jar"
 hash = "6571bdec2ee13ec7826172f7450faad2af36646cc50fc150ab46a455aab96456"
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "ff646e2f218fe9b5094b835855949b70f3f528f0d12ce2401455f60ee9017dbb"
-metafile = true
 
 [[files]]
 file = "mods/william-wythers-overhauled-overworld.pw.toml"

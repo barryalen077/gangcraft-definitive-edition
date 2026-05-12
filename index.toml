@@ -1889,7 +1889,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1dfac146a84e16f89ae17bcc8e9ee745040f8310dfc9c9b896c7ad372cdd82ca"
+hash = "35ef939dd24fc39919a5a50c86e28468e1b3a178cdf61e8197dad72601f25ba5"
 metafile = true
 
 [[files]]
@@ -2122,7 +2122,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "077b5fdf5531b2ebad28955702d069f1df60589b53613b1c66a1c55ba7832bec"
+hash = "e1b49409243ca8ccf9d1ef4d458dc1a887a19f9b18dcd5088d56c19073d57b43"
 metafile = true
 
 [[files]]
@@ -2339,10 +2339,6 @@ metafile = true
 file = "mods/visual-workbench.pw.toml"
 hash = "c1bf8d194ef2c39c6046fa53861571b7c569277923b35e6d95a58ee4644eedb6"
 metafile = true
-
-[[files]]
-file = "mods/waystones-forge-1.20.1-14.1.18.jar"
-hash = "6571bdec2ee13ec7826172f7450faad2af36646cc50fc150ab46a455aab96456"
 
 [[files]]
 file = "mods/waystones.pw.toml"

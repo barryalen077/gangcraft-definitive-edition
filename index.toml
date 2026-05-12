@@ -1145,10 +1145,6 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
-file = "config/libraryferret_1.properties"
-hash = "4173216979812e26dd4c3e3d350e8154fdf623c9ce30f141a91087ee0cd83dfa"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d"
 
@@ -1199,14 +1195,6 @@ hash = "29e73ae1075a5d9f61394a353e60ba84c5c801e511105f2400e0d4ba66a9bf76"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "290ad5a67aff92b259f8fc0602b8c3f3468cd17d7691191a5e73bd4afc5cfeef"
-
-[[files]]
-file = "config/oculus.properties"
-hash = "7d03dbd3a73ef3f4abde1d7446cb8bfd1c5a7857836f8a4e3bc2cc0e1c94ae49"
-
-[[files]]
-file = "config/packetfixer.properties"
-hash = "b377ca4f6c3112e56042f734b40f8e846ab60aab2d04b1a7a0b4dd820d5c6eee"
 
 [[files]]
 file = "config/particle_core_config.toml"
